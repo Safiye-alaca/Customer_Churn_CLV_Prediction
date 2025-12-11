@@ -35,3 +35,6 @@ Lider Segment Tespiti: Projenin sonuçları, Hibernating_Kayıp_Riski segmentini
 Kritik Risk: Ancak bu segment, aynı zamanda %86.6 ile en yüksek Kayıp Riski Oranına sahiptir.
 
 Aksiyon Planı: Bu durum, şirketin acilen yüksek CLV'li Hibernating müşterilerini belirleyip, bu potansiyel geliri kaybetmemek için hızla aksiyon alması gerektiğini ortaya koymaktadır. Diğer değerli segmentler (Loyal ve Champions) ise korunmaya odaklanmalıdır.
+
+Proje ile ilgili detaylı bilgiye medium yazım ile ulaşabilirsiniz:
+https://medium.com/@safyealaca/m%C3%BC%C5%9Fteriniz-%C3%B6lecek-mi-yapay-zeka-ile-churn-ve-clv-tahmini-9e2339b8355a?postPublishedType=initial
