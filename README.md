@@ -1,5 +1,8 @@
 Müşteri Yaşam Boyu Değeri (CLV) ve Kayıp Riski (CHURN) Analizi 👑
 
+<img width="950" height="500" alt="image" src="https://github.com/user-attachments/assets/d9b54b8d-740a-4678-8b2a-e9a6c24373f2" />
+
+
 📌 Proje Özeti
 
 Bu proje, bir e-ticaret şirketinin geçmiş işlem verilerini kullanarak Yapay Zeka Destekli bir karar alma mekanizması oluşturmayı amaçlamaktadır. Proje, müşterileri üç temel boyutta analiz eder: Davranış (RFM), Kayıp Riski (CHURN) ve Gelecekteki Değer (CLV).
